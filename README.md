@@ -53,18 +53,19 @@ Events
 To run this project, ensure you have Python 3.9 or above installed. Follow the steps below to set up the project:
 
 1. Clone the repository:
-   git clone https://github.com/yourusername/student-data-analysis.git
-   cd student-data-analysis
+   `https://github.com/vinayvinay0/Data-Analysis-Projects.git`
 
-2. Create and activate a virtual environment:
-   python -m venv venv
-   source venv/bin/activate    # On Windows, use `venv\Scripts\activate`
+   `cd Data-Analysis-Projects.git`
 
-3. Install the required packages:
-   pip install -r requirements.txt
+3. Create and activate a virtual environment:
+   `python -m venv venv`
+   `source venv/bin/activate`    # On Windows, use `venv\Scripts\activate`
 
-4. Run the analysis script:
-   python Student-Interns-Data.py
+4. Install the required packages:
+   `pip install -r requirements.txt`
+
+5. Run the analysis script:
+   `python Student-Interns-Data.py`
 
 
 # Analysis Questions
